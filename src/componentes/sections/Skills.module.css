@@ -1,0 +1,25 @@
+.skills{
+    background-color: #01091CBF;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 25px;
+    filter: drop-shadow(0 4px 4px rgba(0,0, 0.25, 0.25));
+}
+.skills img{
+    height: 140px;
+    margin: 25px;
+    filter: drop-shadow(0 4px 4px rgba(0,0, 0.25, 0.25));
+}
+.skills h1{
+    font-size: 45px;
+}
+.skills p{
+    font-size: 20px;
+}
+.skills img:hover{
+    cursor: pointer;
+    height: 160px;
+    border: 5px solid aliceblue;
+    border-radius: 20px;
+    transition: 0.3s;
+}

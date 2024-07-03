@@ -1,9 +1,22 @@
+import styles from './Skills.module.css'
+import javascript from '../../image/skill/javascript.svg'
+import html from '../../image/skill/html.svg'
+import css from '../../image/skill/css.svg'
+import react from '../../image/skill/react.svg'
+import typescript from '../../image/skill/typescript.svg'
+
 function Skills(){
     return(
-        <div>
-            <h1>
-                Aqui ficará minhas Skills
-            </h1>
+        <div className={styles.skills} id="Skills">
+            <h1>Habilidades</h1>
+            <p>Conheça um pouco das minhas principais habilidades e conhecimentos.</p>
+            <div>
+                <img src={javascript}></img>
+                <img src={html}></img>
+                <img src={css}></img>
+                <img src={react}></img>
+                <img src={typescript}></img>
+            </div>
         </div>
     )
 }
