@@ -1,6 +1,6 @@
 import styles from './Presentation.module.css'
 import ButtonA from '../elements/ButtonA'
-import ButtonB from '../elements/ButtonB'
+
 
 function Presentation(){
     return(
@@ -14,34 +14,6 @@ function Presentation(){
                 quanto o back-end.
             </h4>
             <ButtonA link='https://github.com/fernandorgoncalves'text="Conecte-se comigo!"/>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
             <br></br>
             <br></br>
             <br></br>

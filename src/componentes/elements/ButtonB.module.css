@@ -1,7 +1,7 @@
 .btn{
     background-color: transparent;
-    color: aliceblue;
-    border: 2px solid aliceblue;
+    color: #74FAC0;
+    border: 2px solid #74FAC0;
     padding: 10px;
     border-radius: 10px;
     font-weight: bolder;
@@ -9,7 +9,7 @@
     cursor: pointer;
 }
 .btn:hover{
-    color: aliceblue;
+    color: #74FAC0;
     background-color: #010B28;
     transition-duration: 0.5s;
     transform: translateY(-7px);
