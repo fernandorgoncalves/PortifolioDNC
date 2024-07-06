@@ -1,7 +1,7 @@
 .skills{
     background-color: #01091CBF;
     border-radius: 10px;
-    margin: 50px;
+    margin: 50px 50px 150px 50px;
     padding: 25px;
     filter: drop-shadow(0 4px 4px rgba(0,0, 0.25, 0.25));
 }

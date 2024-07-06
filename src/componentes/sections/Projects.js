@@ -10,9 +10,9 @@ function Projects(){
             <h1>Projetos</h1>
             <Card 
             img={port}
-            title='LP-DNC'
+            title='Portifolio'
             tech='HTML, CSS, JS'
-            description='Desenvolvimento de uma Landing Page para lançamento de formação em técnologia'
+            description='Desenvolvimento do portifolio em React'
             repo='https://github.com/fernandorgoncalves/PortifolioDNC'
             site='https://portifoliofernando.vercel.app/'
             />
@@ -20,7 +20,7 @@ function Projects(){
             img={lpdc}
             title='Previsão do tempo'
             tech='HTML, CSS, JS'
-            description='Desenvolvimento de uma Landing Page para lançamento de formação em técnologia'
+            description='Desenvolvimento de API de localização e Previsão do tempo'
             repo='https://github.com/fernandorgoncalves/Desafio-2--ConsumodeAPI'
             site='https://desafio2base.netlify.app/'
             
