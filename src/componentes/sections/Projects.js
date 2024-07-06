@@ -2,7 +2,7 @@ import styles from "./Projects.module.css"
 import Card from "../elements/Card"
 import port from '../../image/projects/portifolio.png'
 import lpdc from '../../image/projects/descon.png'
-
+import ButtonB from "../elements/ButtonB"
 
 function Projects(){
     return(
@@ -23,8 +23,10 @@ function Projects(){
             description='Desenvolvimento de API de localização e Previsão do tempo'
             repo='https://github.com/fernandorgoncalves/Desafio-2--ConsumodeAPI'
             site='https://desafio2base.netlify.app/'
-            
             />
+            <a className={styles.btn} href='https://github.com/fernandorgoncalves' target='_blank'>
+            <ButtonB text='Acesse o repositorio Completo'/> 
+            </a>  
         </div>
     )
 }

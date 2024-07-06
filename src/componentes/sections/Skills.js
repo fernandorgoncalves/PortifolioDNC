@@ -17,6 +17,7 @@ function Skills(){
                 <img src={react}></img>
                 <img src={typescript}></img>
             </div>
+
         </div>
     )
 }
