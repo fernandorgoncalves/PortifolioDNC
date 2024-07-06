@@ -6,7 +6,7 @@ function Presentation(){
     return(
         <div className={styles.presentation} id='Presentation'>
             <p><strong>Bem-vindo ao meu Portfólio</strong></p>
-            <h1> Olá! Fernando Gonçalves!</h1>
+            <h1> Olá! eu sou Fernando</h1>
             <h4>Sou um desenvolvedor Full Stack <br/>
                 apaixonado por criar soluções tecnológicas inovadoras.<br/>
                 Com 2 anos de experiência na área de desenvolvimento web,<br/>
